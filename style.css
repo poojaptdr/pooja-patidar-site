@@ -7,7 +7,7 @@
 header{
     text-align: center;
     background-color: lightcoral;
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     padding: 2rem;
 }
 
@@ -27,6 +27,7 @@ button{
     padding: 1rem;
     background-color: lightcoral;
     border: lightcoral;
+    margin:1rem auto;
 }
 
 #output{
@@ -40,21 +41,22 @@ button{
 
 .text{
     max-width: 900px;
-    margin-left: auto;
-    margin-left: auto
+    /* margin-left: auto; */
+    text-align: center;
+    margin-top: 1rem;
 }
 
 footer{
     max-width: auto;
     width: 100%;
     text-align: center;
-    margin-top: 2rem;
-    padding: 3rem;
+    margin-top: 5rem;
+    padding: 2rem;
     background-color: lightcoral;
 }
 
 p{
-    width: 450;
+    width: 450px;
     text-align: center;
-    padding: 1rem;
+    margin-top: 1rem;
 }
